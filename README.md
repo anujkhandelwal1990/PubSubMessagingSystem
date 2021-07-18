@@ -1,7 +1,7 @@
 # PubSub Messaging Queue
 
 ### Problem statement
-[Check here](problem-statment.md)
+[Check here](problem-statement.md)
 
 ### Project requirements
 * JDK 1.8
